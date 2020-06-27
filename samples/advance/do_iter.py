@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 16:49
 # -*- coding: utf-8 -*-
 
 from collections.abc import Iterable, Iterator
